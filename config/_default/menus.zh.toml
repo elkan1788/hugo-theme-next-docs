@@ -1,11 +1,11 @@
 [[main]]
   identifier = "docs"
-  name = "UserGuide"
+  name = "用户指南"
   url = "docs"
   weight = 1
 
-  [[main]]
+[[main]]
   identifier = "releases"
-  name = "Releases"
+  name = "发布版本"
   url = "releases"
   weight = 2

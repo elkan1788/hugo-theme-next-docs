@@ -1,7 +1,7 @@
 logo = true
-logoText = "Z Themes"
+logoText = "Next Themes"
 logoType = "short" # long, short
-description = "The Zzo theme documentation site."
+description = "The Hugo's NexT theme documentation site."
 editBaseURL = "https://github.com/zzossig/zzoDocs/blob/master/content/en"
 themeOptions = ["light", "dark"]
 
@@ -33,5 +33,5 @@ github = "https://github.com/zzossig/hugo-theme-zzo"
 
 enableComment = false
 [utterances]       # https://utteranc.es/
-  owner = "zzossig"              # Your GitHub ID
-  repo = "zzoDocs"               # The repo to store comments
+  owner = "elkan1788"              # Your GitHub ID
+  repo = "hugo-theme-next"               # The repo to store comments

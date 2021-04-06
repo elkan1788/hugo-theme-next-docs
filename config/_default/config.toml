@@ -1,11 +1,11 @@
-baseURL = "https://zzo-docs.vercel.app"
+baseURL = "https://next-docs.lisenhui.cn"
 theme = "zzodoc"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = false
 
-copyright = "MIT&copy;zzossig"
+copyright = "MIT&copy; elkan1788"
 timeout = 10000
 enableEmoji = true
 paginate = 13
