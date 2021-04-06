@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>发布版本 on NexT主题文档</title>
+    <link>https://next-docs.lisenhui.cn/releases/</link>
+    <description>Recent content in 发布版本 on NexT主题文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>MIT&amp;copy; elkan1788</copyright>
+    <lastBuildDate>Sun, 28 Mar 2021 20:38:19 +0800</lastBuildDate>
+    
+        <atom:link href="https://next-docs.lisenhui.cn/releases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Ver3.x</title>
+        <link>https://next-docs.lisenhui.cn/releases/ver3/</link>
+        <pubDate>Sun, 28 Mar 2021 00:10:51 +0900</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/releases/ver3/</guid>
+        <description>Ver3.x 的发布版本记录。  深度优化主题，完善对移动平台的支持，开启评论通知等。
+Ver 3.0 2021年4月5日 d6ea65b
+1 2 3 4 5 6 7 8 9 10 11 12  主要是修复显示样式相关的内容，记录如下： ⚓ 重构配置文件，让参数更加的友好 ⚓ 重命名主分支名称与当前 github 保持一致 ⚓ 修复索引文件在归档等页面无法生效问题 ⚓ 修复搜索显示效果，增加搜索结果文件统计提示 ⚓ 修复移动端显示效果，包括新搜索按钮设计 ⚓ 修复其他小样式文件效果 期待你的使用反馈 🎯 🎉   </description>
+      </item>
+      
+      <item>
+        <title>Ver2.x</title>
+        <link>https://next-docs.lisenhui.cn/releases/ver2/</link>
+        <pubDate>Sun, 28 Mar 2021 00:10:51 +0900</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/releases/ver2/</guid>
+        <description>Ver2.x 的发布版本记录。  完成博客的功能，如增强SEO，代码优化，评论功能，增加中英文版本切换等。
+Ver 2.0 2021年2月22日 d6ea65b
+1 2 3 4 5 6 7 8 9 10 11  增加中英文站点支持，相关记录如下： ⚓ 增加中英文双语支持，导航栏添加ICON图标与文字标注 ⚓ 优化文章目录结构，增加英文翻译文章 ⚓ 修复底部信息描述与样式显示 ⚓ 增加本地搜索的索引文件 ⚓ 其他ICON和样式细节修复 期待你的使用反馈 🎯 🎉   </description>
+      </item>
+      
+      <item>
+        <title>Ver1.x</title>
+        <link>https://next-docs.lisenhui.cn/releases/ver1/</link>
+        <pubDate>Sun, 28 Mar 2021 00:10:51 +0900</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/releases/ver1/</guid>
+        <description>Ver1.x 的发布版本记录。  首次发布，移植并完成基本的功能，同时自己的博客也整改使用此主题。
+Ver 1.0 2021年2月08日 b36a991
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18  感谢 xtfly 分享他从 Hexo 移植过来的 NexT 主题。 在此基础之上，增加一些新的功能和提升，记录如下： ⚓ 美化本地搜索功能样式 ⚓ 增加 Valine 和 LiveRe 评论插件 ⚓ 增加文章阅读时间和显示效果 ⚓ 增加公益404页面 ⚓ 增加页面分享功能 ⚓ 增加标签云功能 ⚓ 增加百度，谷歌和CNZZ统计 ⚓ 增加个人介绍页面 ⚓ 优化 JS 和 CSS 代码 ⚓ 使用远程CDN加速引入 首次正式发布，期待你会喜欢。 🎯 🎉   </description>
+      </item>
+      
+    
+  </channel>
+</rss>

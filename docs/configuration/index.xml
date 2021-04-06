@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>配置 on NexT主题文档</title>
+    <link>https://next-docs.lisenhui.cn/docs/configuration/</link>
+    <description>Recent content in 配置 on NexT主题文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>MIT&amp;copy; elkan1788</copyright>
+    <lastBuildDate>Tue, 30 Mar 2021 08:20:15 +0800</lastBuildDate>
+    
+        <atom:link href="https://next-docs.lisenhui.cn/docs/configuration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>配置文件信息</title>
+        <link>https://next-docs.lisenhui.cn/docs/configuration/configfiles/</link>
+        <pubDate>Tue, 30 Mar 2021 08:20:15 +0800</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/docs/configuration/configfiles/</guid>
+        <description>配置文件目录结构 参考 Hugo 的配置文件写法，并考虑到后期的相关扩展，本主题的配置信息并没有采用汇集到 config.toml 单一文件做法，而是使用根据配置文件分类管理的方式，所以请确保在您的站点有如下类似结构的配置文件目录，否则本主题将无法运行。
+├── config │ ├── _default │ │ ├── config.toml │ │ ├── languages.toml │ │ ├── menus.en.toml │ │ ├── menus.zh-CN.toml │ │ ├── params.en.toml │ │ ├── params.toml │ │ ├── params.zh-CN.toml 另外在本地开发（写文章）过程中，为了便于调试或是保证一些账户信息不泄漏，可以在 config 目录下创建个 development 文件夹使用与 _default 文件下同名的配置文件来覆盖默认的配置信息。 比如：
+├── config │ ├── development │ │ ├── config.toml │ │ ├── params.toml  各个配置文件的具体内容概览如下：
+config.toml config.toml 是主要的配置文件，设置一些全局或自定义参数。
+  config.toml  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52  Title = &amp;#34;Loving life and dreams.</description>
+      </item>
+      
+      <item>
+        <title>config.toml</title>
+        <link>https://next-docs.lisenhui.cn/docs/configuration/config.toml/</link>
+        <pubDate>Tue, 30 Mar 2021 08:31:05 +0800</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/docs/configuration/config.toml/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>

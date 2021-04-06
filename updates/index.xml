@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>更新记录 on NexT主题文档</title>
+    <link>https://next-docs.lisenhui.cn/updates/</link>
+    <description>Recent content in 更新记录 on NexT主题文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>MIT&amp;copy; elkan1788</copyright>
+    <lastBuildDate>Sun, 28 Mar 2021 09:19:56 +0800</lastBuildDate>
+    
+        <atom:link href="https://next-docs.lisenhui.cn/updates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>2021</title>
+        <link>https://next-docs.lisenhui.cn/updates/2021/</link>
+        <pubDate>Sun, 28 Mar 2021 00:10:51 +0900</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/updates/2021/</guid>
+        <description>2021年的更新记录</description>
+      </item>
+      
+      <item>
+        <title>2020</title>
+        <link>https://next-docs.lisenhui.cn/updates/2020/</link>
+        <pubDate>Sun, 28 Mar 2021 00:10:51 +0900</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/updates/2020/</guid>
+        <description>2020年的更新记录</description>
+      </item>
+      
+    
+  </channel>
+</rss>

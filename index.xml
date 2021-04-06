@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo NexT 主题 on NexT主题文档</title>
+    <link>https://next-docs.lisenhui.cn/</link>
+    <description>Recent content in Hugo NexT 主题 on NexT主题文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>MIT&amp;copy; elkan1788</copyright>
+    <lastBuildDate>Sun, 28 Mar 2021 08:19:05 +0800</lastBuildDate>
+    
+        <atom:link href="https://next-docs.lisenhui.cn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>2020-10</title>
+        <link>https://next-docs.lisenhui.cn/updates/2020/2020-10/</link>
+        <pubDate>Sun, 28 Mar 2021 00:10:51 +0900</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/updates/2020/2020-10/</guid>
+        <description>2020-10年的更新记录</description>
+      </item>
+      
+      <item>
+        <title>2021-03</title>
+        <link>https://next-docs.lisenhui.cn/updates/2021/2021-03/</link>
+        <pubDate>Sun, 28 Mar 2021 00:10:51 +0900</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/updates/2021/2021-03/</guid>
+        <description>3月份更新1</description>
+      </item>
+      
+      <item>
+        <title>Ver3.x</title>
+        <link>https://next-docs.lisenhui.cn/releases/ver3/</link>
+        <pubDate>Sun, 28 Mar 2021 00:10:51 +0900</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/releases/ver3/</guid>
+        <description>Ver3.x 的发布版本记录。  深度优化主题，完善对移动平台的支持，开启评论通知等。
+Ver 3.0 2021年4月5日 d6ea65b
+1 2 3 4 5 6 7 8 9 10 11 12  主要是修复显示样式相关的内容，记录如下： ⚓ 重构配置文件，让参数更加的友好 ⚓ 重命名主分支名称与当前 github 保持一致 ⚓ 修复索引文件在归档等页面无法生效问题 ⚓ 修复搜索显示效果，增加搜索结果文件统计提示 ⚓ 修复移动端显示效果，包括新搜索按钮设计 ⚓ 修复其他小样式文件效果 期待你的使用反馈 🎯 🎉   </description>
+      </item>
+      
+      <item>
+        <title>2021-02</title>
+        <link>https://next-docs.lisenhui.cn/updates/2021/2021-02/</link>
+        <pubDate>Sun, 28 Mar 2021 00:10:51 +0900</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/updates/2021/2021-02/</guid>
+        <description>2月份更新</description>
+      </item>
+      
+      <item>
+        <title>Ver2.x</title>
+        <link>https://next-docs.lisenhui.cn/releases/ver2/</link>
+        <pubDate>Sun, 28 Mar 2021 00:10:51 +0900</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/releases/ver2/</guid>
+        <description>Ver2.x 的发布版本记录。  完成博客的功能，如增强SEO，代码优化，评论功能，增加中英文版本切换等。
+Ver 2.0 2021年2月22日 d6ea65b
+1 2 3 4 5 6 7 8 9 10 11  增加中英文站点支持，相关记录如下： ⚓ 增加中英文双语支持，导航栏添加ICON图标与文字标注 ⚓ 优化文章目录结构，增加英文翻译文章 ⚓ 修复底部信息描述与样式显示 ⚓ 增加本地搜索的索引文件 ⚓ 其他ICON和样式细节修复 期待你的使用反馈 🎯 🎉   </description>
+      </item>
+      
+      <item>
+        <title>Ver1.x</title>
+        <link>https://next-docs.lisenhui.cn/releases/ver1/</link>
+        <pubDate>Sun, 28 Mar 2021 00:10:51 +0900</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/releases/ver1/</guid>
+        <description>Ver1.x 的发布版本记录。  首次发布，移植并完成基本的功能，同时自己的博客也整改使用此主题。
+Ver 1.0 2021年2月08日 b36a991
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18  感谢 xtfly 分享他从 Hexo 移植过来的 NexT 主题。 在此基础之上，增加一些新的功能和提升，记录如下： ⚓ 美化本地搜索功能样式 ⚓ 增加 Valine 和 LiveRe 评论插件 ⚓ 增加文章阅读时间和显示效果 ⚓ 增加公益404页面 ⚓ 增加页面分享功能 ⚓ 增加标签云功能 ⚓ 增加百度，谷歌和CNZZ统计 ⚓ 增加个人介绍页面 ⚓ 优化 JS 和 CSS 代码 ⚓ 使用远程CDN加速引入 首次正式发布，期待你会喜欢。 🎯 🎉   </description>
+      </item>
+      
+      <item>
+        <title>配置文件信息</title>
+        <link>https://next-docs.lisenhui.cn/docs/configuration/configfiles/</link>
+        <pubDate>Tue, 30 Mar 2021 08:20:15 +0800</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/docs/configuration/configfiles/</guid>
+        <description>配置文件目录结构 参考 Hugo 的配置文件写法，并考虑到后期的相关扩展，本主题的配置信息并没有采用汇集到 config.toml 单一文件做法，而是使用根据配置文件分类管理的方式，所以请确保在您的站点有如下类似结构的配置文件目录，否则本主题将无法运行。
+├── config │ ├── _default │ │ ├── config.toml │ │ ├── languages.toml │ │ ├── menus.en.toml │ │ ├── menus.zh-CN.toml │ │ ├── params.en.toml │ │ ├── params.toml │ │ ├── params.zh-CN.toml 另外在本地开发（写文章）过程中，为了便于调试或是保证一些账户信息不泄漏，可以在 config 目录下创建个 development 文件夹使用与 _default 文件下同名的配置文件来覆盖默认的配置信息。 比如：
+├── config │ ├── development │ │ ├── config.toml │ │ ├── params.toml  各个配置文件的具体内容概览如下：
+config.toml config.toml 是主要的配置文件，设置一些全局或自定义参数。
+  config.toml  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52  Title = &amp;#34;Loving life and dreams.</description>
+      </item>
+      
+      <item>
+        <title>快速开始</title>
+        <link>https://next-docs.lisenhui.cn/docs/quickstart/</link>
+        <pubDate>Tue, 30 Mar 2021 08:13:25 +0800</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/docs/quickstart/</guid>
+        <description>1. 安装 Hugo 环境 开始前您需要在本地环境中安装 Hugo Extended 版本，实际上 Hugo 的安装非常简单，只是配置个环境变量即可，不同操作系统环境的安装可参考官方文档Installing 。使用如下命令测试安装成功与否：
+1 2 3 4 5 6 7 8 9 10 11 12 13 14  $ hugo env Hugo Static Site Generator v0.80.0-792EF0F4 windows/amd64 BuildDate: 2020-12-31T 13:37:57Z GOOS=&amp;#34;windows&amp;#34; GOARCH=&amp;#34;amd64&amp;#34; GOVERSION=&amp;#34;go1.15.1&amp;#34; # 或者 $ hugo version Hugo Static Site Generator v0.80.0-792EF0F4 windows/amd64 BuildDate: 2020-12-31T 13:37:57Z   2. 创建站点 使用 Hugo 命令创建个空站点，会包含站点运行时所需要各文件夹（不建议进行调整），参考如下：
+ $ hugo new site myblog Congratulations! Your new Hugo site is created in /myblog.</description>
+      </item>
+      
+      <item>
+        <title>config.toml</title>
+        <link>https://next-docs.lisenhui.cn/docs/configuration/config.toml/</link>
+        <pubDate>Tue, 30 Mar 2021 08:31:05 +0800</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/docs/configuration/config.toml/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>

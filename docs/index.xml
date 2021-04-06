@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo NexT 主题用户指南 on NexT主题文档</title>
+    <link>https://next-docs.lisenhui.cn/docs/</link>
+    <description>Recent content in Hugo NexT 主题用户指南 on NexT主题文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>MIT&amp;copy; elkan1788</copyright>
+    <lastBuildDate>Sun, 28 Mar 2021 00:09:21 +0800</lastBuildDate>
+    
+        <atom:link href="https://next-docs.lisenhui.cn/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>快速开始</title>
+        <link>https://next-docs.lisenhui.cn/docs/quickstart/</link>
+        <pubDate>Tue, 30 Mar 2021 08:13:25 +0800</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/docs/quickstart/</guid>
+        <description>1. 安装 Hugo 环境 开始前您需要在本地环境中安装 Hugo Extended 版本，实际上 Hugo 的安装非常简单，只是配置个环境变量即可，不同操作系统环境的安装可参考官方文档Installing 。使用如下命令测试安装成功与否：
+1 2 3 4 5 6 7 8 9 10 11 12 13 14  $ hugo env Hugo Static Site Generator v0.80.0-792EF0F4 windows/amd64 BuildDate: 2020-12-31T 13:37:57Z GOOS=&amp;#34;windows&amp;#34; GOARCH=&amp;#34;amd64&amp;#34; GOVERSION=&amp;#34;go1.15.1&amp;#34; # 或者 $ hugo version Hugo Static Site Generator v0.80.0-792EF0F4 windows/amd64 BuildDate: 2020-12-31T 13:37:57Z   2. 创建站点 使用 Hugo 命令创建个空站点，会包含站点运行时所需要各文件夹（不建议进行调整），参考如下：
+ $ hugo new site myblog Congratulations! Your new Hugo site is created in /myblog.</description>
+      </item>
+      
+      <item>
+        <title>配置</title>
+        <link>https://next-docs.lisenhui.cn/docs/configuration/</link>
+        <pubDate>Tue, 30 Mar 2021 08:20:15 +0800</pubDate>
+        
+        <guid>https://next-docs.lisenhui.cn/docs/configuration/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>
