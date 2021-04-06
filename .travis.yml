@@ -39,7 +39,6 @@ deploy:
   local-dir: public
   target-branch: main
   github-token: $GITHUB_PAGES
-  fqdn: next-docs.lisenhui.cn
   keep-history: true
   commit_message: "Update blog site by TravisCI with build $TRAVIS_BUILD_ID"
   on:
