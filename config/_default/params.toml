@@ -29,9 +29,6 @@ paginateWindow = 1
 taxoPaginate = 13
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
-github = "https://github.com/zzossig/hugo-theme-zzo"
+github = "https://github.com/elkan1788/hugo-theme-next-docs"
 
 enableComment = false
-[utterances]       # https://utteranc.es/
-  owner = "elkan1788"              # Your GitHub ID
-  repo = "hugo-theme-next"               # The repo to store comments
